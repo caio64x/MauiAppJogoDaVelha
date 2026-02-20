@@ -66,14 +66,5 @@ Observação: deploy/emulação depende do setup da sua máquina — usar o Visu
    - Empate detectado quando todas as células estiverem preenchidas sem vencedor.
    - Tabuleiro limpa após alerta.
 
-## Licença
 
-Escolha conforme sua preferência (ex.: MIT). Adicione arquivo `LICENSE` se desejar.
-
----
-
-Se quiser, eu também gero:
-- `LICENSE` (ex.: MIT),
-- `CHANGELOG.md`,
-- instruções de CI (GitHub Actions) para build MAUI.
 
