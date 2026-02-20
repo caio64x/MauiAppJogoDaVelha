@@ -76,3 +76,4 @@ Se quiser, eu também gero:
 - `LICENSE` (ex.: MIT),
 - `CHANGELOG.md`,
 - instruções de CI (GitHub Actions) para build MAUI.
+
